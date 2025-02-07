@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tulchalant's archive</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="#intro">Intro</a></li>
+            <li><a href="#random">Random</a></li>
+            <li><a href="#art">Art Compilation</a></li>
+            <li><a href="#oc">OC Introductions</a></li>
+        </ul>
+    </nav>
+
+    <!-- Sections -->
+    <section id="intro">
+        <h1>Welcome to tulchalant's archive!</h1>
+        <p>This is where I share my creative journey, ideas, and inspirations.</p>
+    </section>
+
+    <section id="random">
+        <h2>Random</h2>
+        <p>Here's where I post random sketches, thoughts, and fun things.</p>
+    </section>
+
+    <section id="art">
+        <h2>Art Compilation</h2>
+        <img src="images/art1.png" alt="Art 1">
+        <img src="images/art2.png" alt="Art 2">
+        <img src="images/art3.png" alt="Art 3">
+    </section>
+
+    <section id="oc">
+        <h2>OC Introductions</h2>
+        <p>Meet my original characters!</p>
+        <ul>
+            <li><strong>Kinich:</strong> A long-range Dendro DPS.</li>
+            <li><strong>Ethan Kennedy:</strong> The child of Kenneth.</li>
+        </ul>
+    </section>
+
+</body>
+</html>
